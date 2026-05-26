@@ -17,4 +17,4 @@
 - Build strong coding skills
 - Create projects
 - Learn Web Development
-- Get internship opportunities6
+- Get internship opportunities
