@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Swathi 👋
 
-<!--
-**SwathiSalla/SwathiSalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year CSE Student  
+📝 Recently completed 1st Year Semester Exams  
+💻 Learning Python, C and Web Development  
+🚀 Currently learning Git and GitHub  
+🌱 Building projects daily  
+✨ Future Software Developer
 
-Here are some ideas to get you started:
+## Skills
+- C Programming
+- Python Basics
+- HTML Basics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals for 2026
+- Build strong coding skills
+- Create projects
+- Learn Web Development
+- Get internship opportunities6
