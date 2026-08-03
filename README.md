@@ -1,6 +1,6 @@
 # Hi, I'm Swathi 👋
 
-🎓 1st Year CSE Student  
+🎓 2nd Year CSE Student  
 📝 Recently completed 1st Year Semester Exams  
 💻 Learning Python, C and Web Development  
 🚀 Currently learning Git and GitHub  
@@ -10,7 +10,10 @@
 ## Skills
 - C Programming
 - Python Basics
-- HTML Basics
+- HTML
+- CSS
+- Spreadsheets, Word and PPT
+- Fundamentals in UX Design
 - Git & GitHub
 
 ## Goals for 2026
